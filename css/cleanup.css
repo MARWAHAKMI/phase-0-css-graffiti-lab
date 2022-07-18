@@ -1,1 +1,26 @@
 /* write your override styles here */
+div#tag-6 {
+    width: min-content;
+}
+
+div#tag-4 {
+    width: min-content;
+}
+
+div.tag-1 {
+    top: 50px;
+}
+
+div#tag-5 {
+    top: -80px;
+}
+
+#wall {
+    border-color: rebeccapurple;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+body div#wall div.parent div>#tag-7.slick {
+    z-index: 100;
+}
